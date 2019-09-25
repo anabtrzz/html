@@ -1,0 +1,21 @@
+Isso é chamado de Anchor Element e serve pra linkar outras parada no site,
+tanto de outras sessões internas do site quanto de outros sites;
+
+  LINK EXTERNO:
+  <a href "link"> legenda do link <a/>
+
+  LINK INTERNO:
+  <a href= "#atributo" > Titulo </a>
+    <h2 id= "atributo"> Titulo </h2>
+  ai no final so acrescenta a tag id:
+  <atributo id= "atributo"> fim do site mores <\atributo>
+
+  LINK DENTRO DO PARÁGRAFO:
+  <p> entre nesse <a target="_blank" href="http://algumlinkaqui.com" target="_blank"> link</a>
+  site aqui se quiser.</p>
+  
+  LINK VAZIO:
+  <a href="#"> </a>
+  
+  e isso é uma imagem transformada num link:
+  <a href="#> <img src="http://linkdaimagemaqui.com" alt="descrição da imagem aqui"> </a>
