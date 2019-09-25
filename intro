@@ -1,0 +1,19 @@
+HTML5 
+umas tag q eu entendi marromeno
+
+<h1> - primeira coisa de tudo, tipo título;
+<p> - parágrafo;
+<ol> - inicia os textos;
+<li> - linha. TEM QUE SER USADO ANTES DE CADA LINHA;
+</ol> - fecha tudo;
+<!--, (...), --> - comentários;
+
+
+exemplo de codezinho com o main
+
+<h1> sei la, oi </h1>
+<main>
+<p> tcharã </p>
+<p> so mais um paragrafo pra fechar o main agora </p>
+</main>
+DALE
