@@ -1,0 +1,35 @@
+a sintaxe é a seguinte:
+
+<input type="text">
+
+• isso vai criar uma caixa de texto
+• não precisa fechar o input
+
+dá pra editar o espaço reservado pro texto usando a palavra "espaço 
+reservado" em ingles que é "placeholder", assim:
+
+<input type="text" planceholder="add another tweet">
+
+
+
+Se quiser enviar alguma informação faz assim:
+
+<form action="link-que-eu-quero-enviar">
+<buttom type="submit">Submit</button> </form>
+
+
+
+aí se vc quiser que a pessoa envie só as opções que vc quer que ela envie,
+tipo se for pra responder um formulário de múltiplas questões é só usar o required:
+
+<input type="text" required>
+
+
+
+aí coloca as opções:
+
+<label>
+     <input type="radio" name="opções">Opção 1</label>
+
+<label>
+     <input type="radio" name="opções">Opção 2</label>
