@@ -1,0 +1,21 @@
+pra fazer uma lista no html (sem ordem, ou seja, só com pontos antes da lista) vc abre um <ul> e aí coloca 
+o tanto de item que quiser abrindo <li> e fechando com </li>.
+assim:
+
+<ul>
+     <li> pai tenho </li>
+     <li> fome </li>
+
+     <li> sou </li>
+     <li> lindo </li>
+</ul>
+
+e se quiser fazer uma lista ordenada (vai aparecer número antes dos itens) é basicamente a mesma coisa
+só que no lugar de <ul> vc usa <ol>:
+
+<ol>
+    <li> socorro </li>
+    <li> meu bebe </li>
+    <li> nao me deixa </li>
+    <li> estudar </li>
+</ol>
